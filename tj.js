@@ -1,5 +1,5 @@
 document.writeln("<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101176913);</script>");
-document.writeln("<script async src=\'//static.getclicky.com/js\'></script>");
+document.writeln("<script async src=\'https://static.getclicky.com/js\'></script>");
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
