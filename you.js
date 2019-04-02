@@ -1,0 +1,12 @@
+document.writeln("<img  src=\'https://hc.7788521.xyz/by.jpg\'>");
+document.writeln("<img  src=\'https://hc.7788521.xyz/by.jpg\'>");
+document.writeln("<img  src=\'https://hc.7788521.xyz/by.jpg\'>");
+document.writeln("<img  src=\'https://hc.7788521.xyz/by.jpg\'>");
+document.writeln("<img  src=\'https://hc.7788521.xyz/by.jpg\'>");
+document.writeln("<img  src=\'https://hc.7788521.xyz/by.jpg\'>");
+//document.writeln("<img  src=\'https://hc.7788521.xyz/by.jpg\'>");
+//document.writeln("<img  src=\'https://hc.7788521.xyz/by.jpg\'>");
+//document.writeln("<img  src=\'https://hc.7788521.xyz/by.jpg\'>");
+//document.writeln("<img  src=\'https://hc.7788521.xyz/by.jpg\'>");
+//document.writeln("<img  src=\'https://hc.7788521.xyz/by.jpg\'>");
+//document.writeln("<img  src=\'https://hc.7788521.xyz/by.jpg\'>");
