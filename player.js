@@ -1,0 +1,1 @@
+var vID="";var vWidth="100%";var vHeight="550px";var vPlayer="/m3u8/HLSPlayer.swf?autostart=false&v=1.5";var vHLSset="/m3u8/HLS.swf";var vPic="/m3u8/play.jpg";var vCssurl="/m3u8/mini.css";
