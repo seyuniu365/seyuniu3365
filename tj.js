@@ -1,5 +1,3 @@
-document.writeln("<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101176913);</script>");
-document.writeln("<script async src=\'//static.getclicky.com/js\'></script>");
 document.write("<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-134864271-2\"></script><script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag(\'js\', new Date());  gtag(\'config\', \'UA-134864271-2\');</script>")
 (function(){
     var bp = document.createElement('script');
