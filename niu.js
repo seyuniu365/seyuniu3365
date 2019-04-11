@@ -6,7 +6,9 @@
     head.appendChild(s);                                                                                                       
 document.writeln("<a href=\'https://www.seyuniu.com\' target=\'_blank\'><img src=\'https://seyuniu365.github.io/seyuniu3365/top.jpg\'/></a>");
 document.writeln("<p>");
-document.write("<a href=\'http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/3044/341cc07c-00f6-4258-9a3d-6bfdc11a62d7.gif\'></a>")
+document.write("<a href=\'http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/3048/261bbfb5-7255-45cb-aa91-337a6172660a.gif\'></a>")
+document.writeln("<p>");
+document.write("<a href=\'http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/3048/261bbfb5-7255-45cb-aa91-337a6172660a.gif\'></a>")
 document.writeln("<p>");
 document.write("<a href=\'http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'http://wx1.sinaimg.cn/large/007kSsoPgy1fxhv85k3frg30qo028grl.gif\'></a>")
 document.writeln("<p>");
