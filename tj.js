@@ -18,3 +18,36 @@ var _hmt = _hmt || [];
     var s = document.getElementsByTagName("script")[0];
     s.parentNode.insertBefore(bp, s);
 })();
+
+if(navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/ipad|iphone|mac/i)) {
+<!---鎵嬫満璁块棶鏂囧瓧--->
+
+document.writeln("<DIV id=\'lovexin122\' style=\'text-align:left;left:0px;position:fixed;top:25%;overflow:hidden;\'>");
+
+document.writeln("<a target=_blank href=https://www.1839yl126.com:1839/Register/?a=4285674><img border=0 src=http://niubixxx.xyz/img/1839.gif  width=120 height=200 ></a><br>");
+
+document.writeln("</div>");
+
+document.writeln("<DIV id=\'lovexin102\' style=\'text-align:right;right:0px;position:fixed;top:25%;overflow:hidden;\'>");
+
+document.writeln("<a target=_blank href=https://www.1839yl126.com:1839/Register/?a=4285674><img border=0 src=http://niubixxx.xyz/img/1839.gif  width=120 height=200 ></a><br>");
+
+<!---鎵嬫満璁块棶鏂囧瓧--->
+}else{
+<!---鐢佃剳璁块棶鏂囧瓧--->
+
+document.writeln("<DIV id=\'lovexin122\' style=\'text-align:left;left:0px;position:fixed;top:0px;overflow:hidden;\'>");
+
+document.writeln("<a target=_blank href=https://www.1839yl126.com:1839/Register/?a=4285674><img border=0 src=http://niubixxx.xyz/img/1839.gif  width=120 height=200 ></a><br>");
+
+
+document.writeln("</div>");
+
+document.writeln("<DIV id=\'lovexin102\' style=\'text-align:right;right:0px;position:fixed;top:0px;overflow:hidden;\'>");
+
+document.writeln("<a target=_blank href=https://www.1839yl126.com:1839/Register/?a=4285674><img border=0 src=http://niubixxx.xyz/img/1839.gif  width=120 height=200 ></a><br>");
+
+
+document.writeln("</div>");
+<!---鐢佃剳璁块棶鏂囧瓧--->
+}
