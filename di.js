@@ -4,8 +4,6 @@ var s = document.createElement('script');
     s.src = 'https://anthonython.com:9595/v/104_150/1926_1';
     var head = document.getElementsByTagName('head')[0];
     head.appendChild(s);                                                                 
- document.writeln("<a href=\'https://www.seyuniu.com\' target=\'_blank\'><img src=\'https://seyuniu365.github.io/seyuniu3365/top.jpg\'/></a>");
-document.writeln("<p>");
 document.write("<a href=\'http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/3048/261bbfb5-7255-45cb-aa91-337a6172660a.gif\'></a>")
 document.writeln("<p>");
 document.write("<a href=\'http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/3048/261bbfb5-7255-45cb-aa91-337a6172660a.gif\'></a>")
