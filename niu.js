@@ -10,7 +10,7 @@ document.write("<a href=\'http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'htt
 document.writeln("<p>");
 document.write("<a href=\'http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/2886/c7d31722-3a5c-403d-98be-c6d7fcf715df.gif\'></a>")
 document.writeln("<p>");
-document.write("<a href=\'http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/2886/c7d31722-3a5c-403d-98be-c6d7fcf715df.gif\' width=100% height=100% '></a>")
+document.write("<a href=\'http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/2886/c7d31722-3a5c-403d-98be-c6d7fcf715df.gif\'></a>")
 document.writeln("<p>");
 document.write("<a href=\'http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/3048/261bbfb5-7255-45cb-aa91-337a6172660a.gif\'></a>")
 
