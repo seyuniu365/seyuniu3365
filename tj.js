@@ -30,7 +30,7 @@ document.writeln("</div>");
 
 document.writeln("<DIV id=\'lovexin102\' style=\'text-align:right;right:0px;position:fixed;top:25%;overflow:hidden;\'>");
 
-//document.writeln("<a target=_blank href=http://ldc.7788521.xyz><img border=0 src=https://raw.githubusercontent.com/seyuniu365/seyuniu3365/master/x6.gif  width=120 height=200 ></a><br>");
+//document.writeln("<a target=_blank href=http://ldc.7788521.com><img border=0 src=https://raw.githubusercontent.com/seyuniu365/seyuniu3365/master/x6.gif  width=120 height=200 ></a><br>");
 
 <!---移动图片--->
 }else{
@@ -45,7 +45,7 @@ document.writeln("</div>");
 
 document.writeln("<DIV id=\'lovexin102\' style=\'text-align:right;right:0px;position:fixed;top:0px;overflow:hidden;\'>");
 
-//document.writeln("<a target=_blank href=http://ldc.7788521.xyz><img border=0 src=https://raw.githubusercontent.com/seyuniu365/seyuniu3365/master/x6.gif  width=120 height=200 ></a><br>");
+//document.writeln("<a target=_blank href=http://ldc.7788521.com><img border=0 src=https://raw.githubusercontent.com/seyuniu365/seyuniu3365/master/x6.gif  width=120 height=200 ></a><br>");
 
 
 document.writeln("</div>");
