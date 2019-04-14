@@ -19,7 +19,7 @@ var _hmt = _hmt || [];
     s.parentNode.insertBefore(bp, s);
 })();
 
-if(navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/ipad|iphone|mac/i)) {
+//if(navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/ipad|iphone|mac/i)) {
 <!---移动图片--->
 
 document.writeln("<DIV id=\'lovexin122\' style=\'text-align:left;left:0px;position:fixed;top:25%;overflow:hidden;\'>");
