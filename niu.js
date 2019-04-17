@@ -8,7 +8,7 @@ document.writeln("<a href=\'https://www.seyuniu.com\' target=\'_blank\'><img src
 //document.writeln("<p>");
 //document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/3048/261bbfb5-7255-45cb-aa91-337a6172660a.gif\'></a>")
 //document.writeln("<p>");
-document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/2886/c7d31722-3a5c-403d-98be-c6d7fcf715df.gif\'></a>")
+document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://ldc662.com\' target=\'_blank\'><img src=\'https://seyuniu365.github.io/seyuniu3365/img/06.gif\'></a>")
 document.writeln("<p>");
 //document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/2886/c7d31722-3a5c-403d-98be-c6d7fcf715df.gif\'></a>")
 //document.writeln("<p>");
