@@ -17,4 +17,3 @@ var _hmt = _hmt || [];
     var s = document.getElementsByTagName("script")[0];
     s.parentNode.insertBefore(bp, s);
 })();
-document.writeln("<script language=\'javascript\' src=\'https://seyuniu365.github.io/seyuniu3365/duilian.js\'></script>");
