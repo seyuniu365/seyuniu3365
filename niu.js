@@ -20,3 +20,5 @@ document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://t
 //document.writeln("<p>");
 document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/3048/261bbfb5-7255-45cb-aa91-337a6172660a.gif\'></a>")
 document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/3048/261bbfb5-7255-45cb-aa91-337a6172660a.gif\'></a>")
+document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=www.379941.com/?p=24961986\' target=\'_blank\'><img src=\'http://fans.91p20.space/fans/661249.gif\'></a>")
+document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=www.379941.com/?p=24961986\' target=\'_blank\'><img src=\'http://fans.91p20.space/fans/661249.gif\'></a>")
