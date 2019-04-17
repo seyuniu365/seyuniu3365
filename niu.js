@@ -15,7 +15,7 @@ document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://l
 document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://ldc662.com\' target=\'_blank\'><img src=\'https://seyuniu365.github.io/seyuniu3365/img/06.gif\'></a>")
 //document.writeln("<p>");
 document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'http://wx3.sinaimg.cn/large/006yM00fly1g1xnb3chezg30qo028gzi.gif\'></a>")
-//document.writeln("<p>");
+document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'http://wx3.sinaimg.cn/large/006yM00fly1g1xnb3chezg30qo028gzi.gif\'></a>")
 document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'http://wx3.sinaimg.cn/large/006yM00fly1g1xnb3chezg30qo028gzi.gif\'></a>")
 document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://www.936647.com/?p=24962056\' target=\'_blank\'><img src=\'http://fans.91p20.space/fans/661249.gif\'></a>")
 document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://www.936647.com/?p=24962056\' target=\'_blank\'><img src=\'http://fans.91p20.space/fans/661249.gif\'></a>")
