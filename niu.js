@@ -5,8 +5,8 @@
     var head = document.getElementsByTagName('head')[0];
     head.appendChild(s);                                                                                                                             
 document.writeln("<a href=\'https://www.seyuniu.com\' target=\'_blank\'><img src=\'https://seyuniu365.github.io/seyuniu3365/top.jpg\'/></a>");
-document.writeln("<a href=\'https://banners.dfbanners.com/redirect.aspx?pid=45693&bid=5597\' target=\'_blank\'><img src=\'https://canimgs.com/images/dafa980.gif\'/></a>");
-document.writeln("<a href=\'https://banners.dfbanners.com/redirect.aspx?pid=45693&bid=5597\' target=\'_blank\'><img src=\'https://canimgs.com/images/dafa980.gif\'/></a>");
+document.writeln("<a href=\'hhttps://www.big2wt.com/sc?btag=661817\' target=\'_blank\'><img src=\'https://canimgs.com/images/dafa980.gif\'/></a>");
+document.writeln("<a href=\'https://www.big2wt.com/sc?btag=661817\' target=\'_blank\'><img src=\'https://canimgs.com/images/dafa980.gif\'/></a>");
 document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/3048/261bbfb5-7255-45cb-aa91-337a6172660a.gif\'></a>")
 document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/3048/261bbfb5-7255-45cb-aa91-337a6172660a.gif\'></a>")
 document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=https://36590044.net/?c=EFYWZ\' target=\'_blank\'><img src=\'http://wx2.sinaimg.cn/large/006yM00fly1g1kti009owg30qo02idyd.gif\'></a>")
