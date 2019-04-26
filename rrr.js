@@ -1,4 +1,4 @@
-if (/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+//if (/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
 	var uu = "https://www.tian-xia-xing.com"
 } else {
 	var uu = "https://www.tian-xia-xing.com"
