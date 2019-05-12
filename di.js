@@ -11,5 +11,5 @@
 //document.write("<a href=\'http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'http://wx1.sinaimg.cn/large/007kSsoPgy1fxhv85k3frg30qo028grl.gif\'></a>")
 //document.writeln("<p>");
 //document.write("<a href=\'http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'http://wx1.sinaimg.cn/large/007kSsoPgy1fxhv85k3frg30qo028grl.gif\'></a>")
-document.write("<a href=\'mailto:seyuniu365@gmail.com\' target=\'_blank\'><img src=\'https://seyuniu365.github.io/seyuniu3365/mail.png\'></a>")
+document.write("<a href=\'mailto:seyuniu365@gmail.com\' target=\'_blank\'><img src=\'https://seyuniu365.github.io/seyuniu3365/mail.png\'class=\'king\' ></a>")
 document.writeln("<script language=\'javascript\' src=\'https://seyuniu365.github.io/seyuniu3365/duilian.js\'></script>");
