@@ -6,9 +6,9 @@
     head.appendChild(s);     
 document.writeln("<style>.king{width:65%;padding-bottom:2px;height:100%;}@media screen and (max-width:600px){.king{width:100%;padding-bottom:2px;height:100%;}}</style>");
 
-document.writeln("<a href=\'https://www.seyuniu.com\' target=\'_blank\'><img src=\'https://seyuniu365.github.io/seyuniu3365/top.jpg\' class="king" /></a>");
-document.writeln("<a href=\'https://www.big2wt.com/sc?btag=661817\' target=\'_blank\'><img src=\'https://canimgs.com/images/dafa980.gif\' class="king" /></a>");
-document.writeln("<a href=\'https://www.big2wt.com/sc?btag=661817\' target=\'_blank\'><img src=\'https://canimgs.com/images/dafa980.gif\' class="king" /></a>");
+document.writeln("<a href=\'https://www.seyuniu.com\' target=\'_blank\'><img src=\'https://seyuniu365.github.io/seyuniu3365/top.jpg\' class=\'king\'  /></a>");
+document.writeln("<a href=\'https://www.big2wt.com/sc?btag=661817\' target=\'_blank\'><img src=\'https://canimgs.com/images/dafa980.gif\' class=\'king\'  /></a>");
+document.writeln("<a href=\'https://www.big2wt.com/sc?btag=661817\' target=\'_blank\'><img src=\'https://canimgs.com/images/dafa980.gif\' class=\'king\'  /></a>");
 document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/3048/261bbfb5-7255-45cb-aa91-337a6172660a.gif\'  class=\'king\'  ></a>")
 document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=http://t.cn/E6jrQU0\' target=\'_blank\'><img src=\'https://lmbf88.hypertrackeraff.com/Banner/3048/261bbfb5-7255-45cb-aa91-337a6172660a.gif\' class=\'king\' ></a>")
 document.write("<a href=\'https://0123abc.github.io/apps/index.html?url=https://36590044.net/?c=EFYWZ\' target=\'_blank\'><img src=\'http://wx2.sinaimg.cn/large/006yM00fly1g1kti009owg30qo02idyd.gif\' class=\'king\' ></a>")
