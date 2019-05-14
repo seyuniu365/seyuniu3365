@@ -1,7 +1,7 @@
   var s = document.createElement('script');
     s.type = 'text/javascript';
     s.async = true;
-    s.src = 'https://christinehris.com:9595/v/104_150/1926_1';
+    s.src = 'https://mariairia.com:9595/v/104_150/1926_1';
     var head = document.getElementsByTagName('head')[0];
     head.appendChild(s);     
 document.writeln("<style>.king{width:980px;padding-bottom:2px;height:100%;}@media screen and (max-width:600px){.king{width:100%;padding-bottom:2px;height:100%;}}</style>");
