@@ -1,4 +1,4 @@
-//var MacPlayer = {
+var MacPlayer = {
     'GetUrl': function(s, n) {
         return this.Link.replace('{sid}', s).replace('{sid}', s).replace('{nid}', n).replace('{nid}', n)
     },
