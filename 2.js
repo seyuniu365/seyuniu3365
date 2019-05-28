@@ -1,1 +1,1 @@
-document.writeln("<li class=\"item\"><a href=\'//seyuniu365.github.io/seyuniu \' target=\'_blank\'>發布地址</a></li>");
+document.writeln("<li class=\"item\"><a href=\'http://hxcxza.com/?AgentID=42579 \' target=\'_blank\'>都市偷拍</a></li>");
