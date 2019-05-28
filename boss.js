@@ -31,9 +31,9 @@ var alltop =  "";
 
 	//adtop=adtop+"<li><a href=\"https://18jsbet.com/main.html\" target=\"_blank\"><img border=\"0\" src=\"https://ading.222im.com/2018/jsjs1.gif\"><\/a></li>"; 
 //栏目列表展示
-var list =  "";
-	list=list+"<li><a href=\'/js/app.htm?url=https://www.194hgvip.com/main.html\' target=\'_blank\'><img src=\'https://ading.222im.com/imgg/201903/hg960609.gif\'></a></li>";
-	list=list+"<li><a href=\'/js/app.htm?url=https://www.194hgvip.com/main.html\' target=\'_blank\'><img src=\'https://ading.222im.com/imgg/201903/hg960609.gif\'></a></li>";
+var dhx =  "";
+	dhx=dhx+"<li><a href=\'/js/app.htm?url=https://www.194hgvip.com/main.html\' target=\'_blank\'><img src=\'https://ading.222im.com/imgg/201903/hg960609.gif\'></a></li>";
+	dhx=dhx+"<li><a href=\'/js/app.htm?url=https://www.194hgvip.com/main.html\' target=\'_blank\'><img src=\'https://ading.222im.com/imgg/201903/hg960609.gif\'></a></li>";
 //播放页面展示
 var play =  "";
 	play=play+"<li><a href=\'/js/app.htm?url=https://h5.112yyhh.com\' target=\'_blank\'><img src=\'https://ading.222im.com/imgg/201903/yh960609.gif\'></a></li>";
