@@ -19,7 +19,7 @@ var unforcejx="yunpan#swf#iframe#url#xigua#ffhd#jjvod#ck#dp";
 var unforcejxARR = unforcejx.split('#');
 
 
-function contains(arr, obj) {  
+//function contains(arr, obj) {  
     var i = arr.length;  
     while (i--) {  
         if (arr[i] === obj) {  
